@@ -37,7 +37,7 @@
 
 <br>
 
-[![MarPalko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarPalko&custom_title=My%20contribution%20Graph&grid=true&area=true&area_color=282c34&&bg_color=282c34&hide_border=true&radius=16&color=e5c07b&line=e06c75&point=e06c75)](https://github.com/pilot2254)
+[![MarPalko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarPalko&custom_title=My%20contribution%20Graph&grid=true&area=true&area_color=e06c75&bg_color=282c34&hide_border=true&radius=16&color=e5c07b&line=e06c75&point=e06c75)](https://github.com/pilot2254)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=MarPalko&row=1&column=9&theme=onedark&no-frame=true&hide_border=true)
 
